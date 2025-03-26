@@ -15,9 +15,13 @@ URL
    http://localhost:8080/api
 
    GET	/usuarios	Obtener todos los usuarios
+   
    POST	/usuarios	Crear un usuario
+
    GET	/usuarios/{id}	Obtener un usuario por ID
+   
    PATCH /usuarios/{id} Actulizar usuario por ID
+   
    DELETE	/usuarios/{id}	Eliminar un usuario
  
   
