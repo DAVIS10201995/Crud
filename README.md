@@ -116,9 +116,9 @@ Para facilitar las pruebas, hemos creado una colección de Postman con todos los
 ### **Cómo importar la colección**
 1. Abre **Postman**.
 2. Haz clic en **"Importar"** en la parte superior izquierda.
-3. Selecciona **"Subir archivos"** y elige el archivo `usuarios-api.postman_collection.json` de este repositorio.
+3. Selecciona **"Subir archivos"** y elige el archivo `postman/localCRUD.postman_collection.json` de este repositorio.
 4. La colección se agregará automáticamente con todos los endpoints configurados.
-5. Configura la URL base en Postman: `http://localhost:8080/api`.
+5. Configura la URL base en Postman: `http://localhost:8080/usuarios`.
 
 📌 **Nota:** Asegúrate de que la API está corriendo antes de hacer pruebas.
 
