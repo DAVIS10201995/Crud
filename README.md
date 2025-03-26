@@ -11,7 +11,7 @@
    git clone https://github.com/usuario/api-usuarios.git
    cd api-usuarios
 
-   URL
+URL
    http://localhost:8080/api
 
    GET	/usuarios	Obtener todos los usuarios
@@ -19,9 +19,10 @@
    GET	/usuarios/{id}	Obtener un usuario por ID
    PATCH /usuarios/{id} Actulizar usuario por ID
    DELETE	/usuarios/{id}	Eliminar un usuario
-
+ 
+  
   ejemplo 
-  GET http://localhost:8080/api/usuarios
+GET http://localhost:8080/api/usuarios
 
   respuesta
   [
