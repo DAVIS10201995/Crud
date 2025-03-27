@@ -15,14 +15,7 @@
 ## URL
    http://localhost:8080/api
 
-## Configuracion de la base de datos
-Configurar la base de datos en application.properties
- ```sh
-  spring.application.name=crud
-  spring.datasource.url=jdbc:postgresql://aws-0-us-west-1.pooler.supabase.com:6543/postgres
-  spring.datasource.username=postgres.wyspdisteeqbfhbwpwkp
-  spring.datasource.password=Minecraft@2016
-```
+
 
 ##  Endpoints de la API
 
